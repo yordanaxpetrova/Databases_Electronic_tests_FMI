@@ -13,8 +13,7 @@ Features
 4. Prerequisite Exams: Certain exams require students to have passed specific prior exams.
 5. Automatic Grading: The system calculates final grades based on assigned points.
   
-Database Design
-The project includes a comprehensive database schema to support the electronic testing system, which consists of the following key components:
+Database Design - The project includes a comprehensive database schema to support the electronic testing system, which consists of the following key components:
 1. Entities and Relationships: Representation of exams, questions, user responses, and their interrelations.
 2. Keys and Constraints:
 - Primary Keys: Unique identifiers for each entity.
@@ -63,8 +62,7 @@ Future Improvements
 4. Предварителни изпити: Някои изпити изискват от студентите да са преминали определени предходни изпити.
 5. Автоматично оценяване: Системата изчислява крайни оценки на базата на зададените точки.
 
-Дизайн на базата данни
-Проектът включва обширна схема на базата данни, която поддържа електронната тестова система, състояща се от следните ключови компоненти:
+Дизайн на базата данни - Проектът включва обширна схема на базата данни, която поддържа електронната тестова система, състояща се от следните ключови компоненти:
 1. Същности и връзки: Представяне на изпити, въпроси, отговори на потребителите и техните взаимовръзки.
 2. Ключове и ограничения:
 - Първични ключове: Уникални идентификатори за всяка същност.
